@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "path---my-second-post": [
+      "path---my-second-post-e69fe39c3835c80617df.js",
+      "path---my-second-post-e69fe39c3835c80617df.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-006187a24d850f63a533.js",
+      "component---src-pages-index-js-006187a24d850f63a533.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-9bc86b5bdceb7731f532.js",
+      "component---src-templates-blog-post-js-9bc86b5bdceb7731f532.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-36f8ab88ceb9ef230a6b.js",
+      "component---src-layouts-index-js-36f8ab88ceb9ef230a6b.js.map"
+    ],
+    "path---hi-folks": [
+      "path---hi-folks-f3f3cd0f5f246993333a.js",
+      "path---hi-folks-f3f3cd0f5f246993333a.js.map"
+    ],
+    "path---index": [
+      "path---index-7069f6774d2331301550.js",
+      "path---index-7069f6774d2331301550.js.map"
+    ],
+    "path---hello-world": [
+      "path---hello-world-4f1f398dbe0327bb0b1b.js",
+      "path---hello-world-4f1f398dbe0327bb0b1b.js.map"
+    ],
+    "commons": [
+      "commons-93ff308db9ca507633c7.js",
+      "build-js-styles.css",
+      "commons-93ff308db9ca507633c7.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-3e805ee512965c5a2053.js",
+      "build-js-styles.css",
+      "app-3e805ee512965c5a2053.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}
